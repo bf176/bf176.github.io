@@ -1,0 +1,51 @@
+body{
+    text-align: left;
+    margin-left: 12px;
+    margin-right: 600px;
+    border: 12px; 
+    border-style: none;
+    }
+
+
+h1 {
+    color: red;
+}
+h3 {
+    color: black;
+}
+
+
+a:hover {
+    background-color: black;
+    color: white;
+   
+        }
+
+
+.header.nav {
+    padding:  10px;
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    color: black;
+    font-family: lato;
+    font-size: 25pt;
+}
+
+section {
+    padding: 6px;
+    text-align: left;
+    border-bottom: 4px solid #e5e5e5;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(229, 229, 229);
+
+}
+
+.footer-nav {
+    text-decoration: none;
+    padding: 10px;
+    text-align: left;
+  }
